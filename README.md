@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LRFirmino
-- 👀 I’m interested in Data science, Biology and Science.
+- 👀 I’m interested in Software Development, Data Science and Bioinformatics.
 - 📫 How to reach me luizerfirmino@gmail.com
 - 😄 Pronouns: He/His
 
