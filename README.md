@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LRFirmino
+- 👋 Hi, I’m Luiz.
 - 👀 I’m interested in Software Development and Data Science.
 - 📫 How to reach me luizerfirmino@gmail.com
 - 😄 Pronouns: He/His
-
