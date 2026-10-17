@@ -45,11 +45,7 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LRFirmino&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Luiz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRFirmino&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LRFirmino&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Luiz's GitHub Stats" width="80%" /> <br /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRFirmino&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="80%" /> </div>
 </div>
 
 ---
