@@ -4,7 +4,7 @@
 
   ### **Bioinformatician & Full-Stack / Backend Developer**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python)](https://git.io/typing-svg)
+  <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python)](https://git.io/typing-svg)</div>
 
   <br />
 
