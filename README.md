@@ -4,11 +4,11 @@
 
   ### **Bioinformatician & Full-Stack / Backend Developer**
 
-  <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python;Bioinfo)](https://git.io/typing-svg)</div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python)](https://git.io/typing-svg)
 
   <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizerfirmino@gmail.com)
 
 </div>
