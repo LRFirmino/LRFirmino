@@ -4,7 +4,7 @@
 
   ### **Bioinformatician & Full-Stack / Backend Developer**
 
-  <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python)](https://git.io/typing-svg)</div>
+  <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=BD93F9&width=435&lines=Bioinformatics;Full-Stack+%26+Backend+Development;Java+%7C+Python;Bioinfo)](https://git.io/typing-svg)</div>
 
   <br />
 
@@ -20,7 +20,7 @@
 - 🔬 **Background:** PhD in Biochemistry (UNICAMP) with a focus on **Bioinformatics** and **RNA-seq Analysis**. Currently completing my IT degree at UNIVESP.
 - 💻 **Software Engineering:** Passionate about building robust **Backend Systems**, **REST APIs**, and **Full-Stack Web Applications**.
 - 🛠️ **Current Focus:** Modern web architectures and RNA-seq pipelines.
-- 🎮 **Hobbies:** Playing drums, bass and guitar, game dev (Godot), and strength training.
+- 🎮 **Hobbies:** Playing bass and guitar.
 
 ---
 
